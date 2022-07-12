@@ -1,0 +1,112 @@
+{
+    "basics": {
+        "name": "Gaurav Rajora",
+        "label": "Student",
+        "picture": "https://github.com/Gauravrajora05/iiitweb/blob/main/IMG-20220526-WA0008.jpg?raw=true",
+        "email": "2021kucp1047@iiitkota.ac.in",
+        "phone": "+916375771916",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+        "location": {
+            "address": "Sanganer",
+            "postalCode": "302033",
+            "city": "Jaipur",
+            "countryCode": " India",
+            "region": "Rajasthan"
+        },
+        "profiles": [
+            {
+                "network": "",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "Github",
+                "username": "Gauravrajora05",
+                "url": "https://github.com/Gauravrajora05"
+            },
+            {
+                "network": "linkedin",
+                "username": "Gaurav Rajora",
+                "url": "https://www.linkedin.com/in/gaurav-rajora-10178b22a/"
+            },
+            {
+                "network": "twitter",
+                "username": "gauravrajora111",
+                "url": "https://twitter.com/gauravrajora111"
+            }
+        ]
+    },
+    "work": [
+        
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "",
+            "level": "",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "c/c++" 
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": ["English","Hindi"],
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "",
+            "keywords": [
+                ""
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Cricket",
+                "Badminton"
+            ]
+        }
+    ]
+}
